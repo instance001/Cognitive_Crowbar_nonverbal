@@ -1,6 +1,9 @@
 \# Cognitive Crowbar – Non-Verbal Edition (v0.1)
 
-
+Work continues at:
+https://github.com/instance001/entropy-folding-eureka-cascade-hypothesis
+and
+https://github.com/instance001/entropy-folding-cross-domain-signal-atlas
 
 Local-only, AI-free tooling for mapping cognition in \*\*non-verbal agents\*\*:
 
